@@ -9,11 +9,13 @@
 >- Cada (6 meses) aumentar en un 15% nuestros empleados de soporte técnico con personas de la región de Centroamérica para poder comprender mejor terminologias de esta region y así poder facilitar la resolución de problemas, esto durante un plazo de año y medio (18 meses).
 >- Aumentar en un 20% la satisfacción de nuestros clientes despues de recibir el soporte tecnico.
 >- Cambiar nuestra metodología de atención el cliente a una más eficiente, esto en un plazo de un año.
+>___
 
-<center>
+<p align="center">
     <img src="https://www.valoradata.com/files/uploads/2014/08/soporte1-1024x699.jpg" alt="soporte tecnico" width=450 height=300 >
-</center>
+</p>
 
+>____
 # Objetivos de Negocios 
 ## ROL/MARKENTINGDIGITAL
 
@@ -27,3 +29,13 @@
 >
 > 4. Posicionar las PYMES con el autemento del trafico organico en las busquedas de GOOGLE CLOUD con palabras clave, para puntar en el secor de los pagos electronicos.
 >5. Un plazo definido sera incrementar la base de usuarios nuevos activo en Centroamerica, donde brindaremos por medios de correos la campaña de informacion del proyecto que se quiere e incentivar con un comercio sostenible e amigable.
+>___
+<p align="center">
+    <img src="https://marketing4ecommerce.net/wp-content/uploads/2015/10/marketingDigital1-1.jpg" alt="Marketing digital" width=450 height=300>
+</p>
+
+
+
+>___
+>Hecho por: Sebastian Pachon, Julian Machado
+>___
